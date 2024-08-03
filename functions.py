@@ -8,3 +8,4 @@ print(
     least_difference(1, 10, 10),
     least_difference(5, 6, 7), # Python allows trailing commas in argument lists. How nice is that?
 )
+help(least_difference)
